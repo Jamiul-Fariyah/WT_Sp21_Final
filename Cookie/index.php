@@ -5,7 +5,7 @@
 	$password=$_POST["password"];
 	if($username == "jim" && $password=="1234")
 	{
-	     header("Location: dashboard.php);
+	     header("Location: dashboard.php");
 	}
 	
 	}
